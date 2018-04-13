@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  
   "scripts": {
     "dev": "npm run start",
     "build-css": "node-sass src/ -o src/",
